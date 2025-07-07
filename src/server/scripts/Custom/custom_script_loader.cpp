@@ -22,6 +22,7 @@ void AddSC_start_equipment();
 void AddSC_double_xp();
 void AddSC_quest_conversation();
 void AddSC_debug_lfg();
+void AddSC_solocraft();
 
 void AddCustomScripts()
 {
@@ -30,4 +31,5 @@ void AddCustomScripts()
     AddSC_double_xp();
     AddSC_quest_conversation();
     AddSC_debug_lfg();
+    AddSC_solocraft();
 }
